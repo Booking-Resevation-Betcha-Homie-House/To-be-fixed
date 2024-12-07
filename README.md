@@ -1,7 +1,5 @@
 ## To be fixed:
 
-### Column: (No.|Page|Problem)
-
 | No. | Page | Problem |
 |-----|------|---------|
 | **SUPER ADMINISTRATOR** | | |
