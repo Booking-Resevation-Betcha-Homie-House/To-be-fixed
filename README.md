@@ -11,14 +11,14 @@
 | 4 | SAdmin - Remove-Admin | No loading before fetch and no `alertCustom` for errors. |
 | 5 | SAdmin - Cancel-Booking | No loading before fetch and no `alertCustom` for errors. |
 | **ADMINISTRATOR** | | |
-| 3 | Admin - Edit-Profile | Cannot edit any information (check username, email, password). Add `alertCustom` for errors. |
-| 4 | Admin - Add-Unit | No redirection after saving and no error alert for errors. |
-| 5 | Admin - View-Unit | Unit price, reservation fee, and price per pax are the same value. |
-| 6 | Admin - Edit-Unit | No pre-fills, cannot save, no `alertCustom` for errors. Check all elements on this page; refer to Super Admin page. |
-| 7 | Admin - Remove-Unit | No redirection and no `alertCustom` for errors. |
-| 9 | Admin - View-Transaction | Cancel button has no `alertCustom`. |
-| 8 | Admin - Edit-Transaction | Two buttons do not redirect via href. |
-| 9 | Admin & SAdmin - Edit-Faqs modal | No pre-fill data. |
+| 6 | Admin - Edit-Profile | Cannot edit any information (check username, email, password). Add `alertCustom` for errors. |
+| 7 | Admin - Add-Unit | No redirection after saving and no error alert for errors. |
+| 8 | Admin - View-Unit | Unit price, reservation fee, and price per pax are the same value. |
+| 9 | Admin - Edit-Unit | No pre-fills, cannot save, no `alertCustom` for errors. Check all elements on this page; refer to Super Admin page. |
+| 10 | Admin - Remove-Unit | No redirection and no `alertCustom` for errors. |
+| 11 | Admin - View-Transaction | Cancel button has no `alertCustom`. |
+| 12 | Admin - Edit-Transaction | Two buttons do not redirect via href. |
+| 13 | Admin & SAdmin - Edit-Faqs modal | No pre-fill data. |
 | **CUSTOMER** | | |
-| 10 | All navigation pages | Fix navigation hovers on all pages. |
-| 11 | Login and Register back button | Ensure it redirects to the landing page. |
+| 14 | All navigation pages | Fix navigation hovers on all pages. |
+| 15 | Login and Register back button | Ensure it redirects to the landing page. |
